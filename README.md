@@ -27,6 +27,8 @@ Before you start working on something, we recommend that you create an issue to 
 
 Head over to our [CONTRIBUTING.md](https://github.com/lordgrim18/DataMuncher/blob/main/CONTRIBUTING.md) file to learn about how to contribute to this repository.
 
+When you work on something or plan to work on something, ensure that there doesn't exist an issue addressing the same problem and is assigned to someone. If the issue is unassigned then ask for the maintainer to assign it to you.
+
 
 ## Code of Conduct
 

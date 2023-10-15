@@ -1,0 +1,34 @@
+name: "🛠️ Code Optimization"
+description: Create a new issue for code optimization or efficiency improvements.
+title: "🛠️ [OPT] - <title>"
+labels: [
+  "enhancement"
+  ]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: Please provide a detailed description of the code optimization or efficiency improvement.
+      placeholder: Describe the current issues and how the changes will improve the code...
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_changes
+    attributes:
+      label: "Proposed Changes"
+      description: Describe the changes you plan to make and why they will improve the code.
+      placeholder: Provide a summary of the planned modifications...
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priority"
+      description: Select the priority of this code optimization task.
+      options:
+        - Low
+        - Medium
+        - High
+    validations:
+      required: true

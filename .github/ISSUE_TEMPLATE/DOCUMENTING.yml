@@ -1,0 +1,45 @@
+name: "📚 Documentation Issue"
+description: Create a new issue for documentation-related tasks.
+title: "📚 [DOCS] - <title>"
+labels: [
+  "documentation"
+  ]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: Please provide a detailed description of the documentation issue.
+      placeholder: Describe the problem or suggestion for improvement...
+    validations:
+      required: true
+  - type: textarea
+    id: suggested_changes
+    attributes:
+      label: "Suggested Changes"
+      description: If applicable, describe the changes you'd like to see in the documentation.
+      placeholder: Provide specific suggestions for improvement...
+    validations:
+      required: false
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priority"
+      description: Select the priority of this documentation issue.
+      options:
+        - Low
+        - Medium
+        - High
+    validations:
+      required: true
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: "Difficulty"
+      description: Select the difficulty level of the documentation task.
+      options:
+        - Easy
+        - Moderate
+        - Challenging
+    validations:
+      required: true

@@ -8,6 +8,10 @@ Welcome to DataMuncher, a vibrant open-source repository where the art of progra
 
 We're thrilled to be part of Hacktoberfest 2023. Join us by making meaningful contributions to DataMuncher during October. Contribute to Python projects, enhance algorithms, and learn from fellow developers.
 
+### What is Hacktoberfest 
+
+**[Hacktoberfest](https://hacktoberfest.com/)** is an annual open-source celebration encouraging global developers to contribute four quality contributions to open projects during October. Hosted by [DigitalOcean](https://www.digitalocean.com/blog/ten-years-hacktoberfest) and [GitHub](https://github.com/topics/hacktoberfest-2023), it fosters collaboration, and promotes open-source values, creating a vibrant community and enhancing coding skills.
+
 ## What You'll Find
 
 - **Python Algorithms**: Dive into a collection of Python algorithms, each showcasing the beauty and efficiency of Python's programming capabilities. From sorting algorithms to graph traversal, there's a world of code to explore.
@@ -18,7 +22,11 @@ We're thrilled to be part of Hacktoberfest 2023. Join us by making meaningful co
 
 ## How to Contribute
 
-Contributing to DataMuncher is easy, and we appreciate all contributions. Head over to our [CONTRIBUTING.md](https://github.com/lordgrim18/DataMuncher/blob/main/CONTRIBUTING.md) file to learn about how to contribute to this repository.
+Contributing to DataMuncher is easy, and we appreciate all contributions. 
+Before you start working on something, we recommend that you create an issue to discuss your proposed changes or report a bug. This ensures that your contributions align with the project's goals and that you can get feedback and guidance from maintainers and other contributors.
+
+Head over to our [CONTRIBUTING.md](https://github.com/lordgrim18/DataMuncher/blob/main/CONTRIBUTING.md) file to learn about how to contribute to this repository.
+
 
 ## Code of Conduct
 
@@ -27,6 +35,8 @@ Please follow our [Code of Conduct](https://github.com/lordgrim18/DataMuncher/bl
 ## Questions or Discussions
 
 If you have questions or want to discuss ideas or improvements, please feel free to contact the maintainer at [jeromjomanthara@gmail.com](mailto:jeromjomanthara@gmail.com).
+
+
 
 ##
 

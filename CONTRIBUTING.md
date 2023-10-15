@@ -9,20 +9,32 @@ We welcome contributions from everyone, regardless of your experience level. Her
 
    ## Getting Started
   
-1. **Star the Repository**: Click the "Star" button at the top right of the repository page.
-2. **Fork the Repository**: Click the "Fork" button on the top right of the repository's page.
-3. **Clone Your Fork**: Open your terminal and run the following command, replacing `[your-username]` with your GitHub username:
+1. **Fork the Repository**: Click the "Fork" button on the top right of the repository's page.
+2. **Clone Your Fork**: Open your terminal and run the following command, replacing `[your-username]` with your GitHub username:
 
    ```bash
    git clone https://github.com/[your-username]/DataMuncher.git
-4. **Create a Branch**: Create a new branch for your feature or bug fix: `git checkout -b feature-name`
-5. **Make Changes**: Make your changes or additions to the code.
-6. **Testing**: Make sure to test your changes thoroughly.
-7. **Commit Your Changes**: Commit your changes with a descriptive commit message.
-8. **Push Your Changes**: Push your changes to your forked repository.
-9. **Open a Pull Request**: Create a pull request from your forked repository to this repository.
-10. **Describe Your Pull Request**: Provide a detailed description of your changes, what you've added, and any relevant information for reviewers.
+3. **Create a Branch**: Create a new branch for your feature or bug fix: `git checkout -b feature-name`
+4. **Make Changes**: Make your changes or additions to the code.
+5. **Testing**: Make sure to test your changes thoroughly.
+6. **Commit Your Changes**: Commit your changes with a descriptive commit message.
+7. **Push Your Changes**: Push your changes to your forked repository.
+8. **Open a Pull Request**: Create a pull request from your forked repository to this repository.
+9. **Describe Your Pull Request**: Provide a detailed description of your changes, what you've added, and any relevant information for reviewers.
 
+
+### Some things to keep in mind
+1. Before pushing your changes to the remote repo ensure that it is synched with the latest changes.
+2. Make sure that the changes you made locally have been committed.
+3. Pull the updated content from the main branch.
+
+   ```bash
+   git pull origin main
+4. Resolve any conflicts if present.
+5. Now push the branch on which you were working on.
+   ```bash
+   git push origin branch-name
+6. Go to your repo and open a pull request.
 
 ## Contact
 

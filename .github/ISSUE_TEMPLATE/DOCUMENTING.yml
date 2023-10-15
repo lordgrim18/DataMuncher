@@ -13,14 +13,6 @@ body:
       placeholder: Describe the problem or suggestion for improvement...
     validations:
       required: true
-  - type: textarea
-    id: suggested_changes
-    attributes:
-      label: "Suggested Changes"
-      description: If applicable, describe the changes you'd like to see in the documentation.
-      placeholder: Provide specific suggestions for improvement...
-    validations:
-      required: false
   - type: dropdown
     id: priority
     attributes:

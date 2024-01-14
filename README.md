@@ -4,14 +4,6 @@
 
 Welcome to DataMuncher, a vibrant open-source repository where the art of programming converges with Python algorithms, data structures, and innovative small projects. Whether you're a seasoned developer or a curious learner, you've found a creative space to explore, contribute, and sharpen your Python skills.
 
-## Hacktoberfest 2023
-
-We're thrilled to be part of Hacktoberfest 2023. Join us by making meaningful contributions to DataMuncher during October. Contribute to Python projects, enhance algorithms, and learn from fellow developers.
-
-### What is Hacktoberfest 
-
-**[Hacktoberfest](https://hacktoberfest.com/)** is an annual open-source celebration encouraging global developers to contribute four quality contributions to open projects during October. Hosted by [DigitalOcean](https://www.digitalocean.com/blog/ten-years-hacktoberfest) and [GitHub](https://github.com/topics/hacktoberfest-2023), it fosters collaboration, and promotes open-source values, creating a vibrant community and enhancing coding skills.
-
 ## What You'll Find
 
 - **Python Algorithms**: Dive into a collection of Python algorithms, each showcasing the beauty and efficiency of Python's programming capabilities. From sorting algorithms to graph traversal, there's a world of code to explore.
